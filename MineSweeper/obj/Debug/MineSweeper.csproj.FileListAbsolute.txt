@@ -1,0 +1,24 @@
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\ApplicationIcon.png
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\Background.png
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.dll
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.pdb
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\AppManifest.xaml
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.xap
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\App.g.i.cs
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\MainPage.g.i.cs
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.g.resources
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.dll
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\dragonpig\documents\visual studio 2010\Projects\MineSweeper\MineSweeper\obj\Debug\XapCacheFile.xml
+e:\Desktop\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.dll
+e:\Desktop\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.pdb
+e:\Desktop\MineSweeper\MineSweeper\Bin\Debug\AppManifest.xaml
+e:\Desktop\MineSweeper\MineSweeper\Bin\Debug\MineSweeper.xap
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\ResolveAssemblyReference.cache
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\App.g.i.cs
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\MainPage.g.i.cs
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.g.resources
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.dll
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+e:\Desktop\MineSweeper\MineSweeper\obj\Debug\XapCacheFile.xml
